@@ -1,0 +1,33 @@
+.header__container{
+    display: flex;
+    align-items: center;
+    gap: 65px;
+    padding-top: 45px;
+    padding-bottom: 45px;
+} 
+
+.header__logo{
+    flex-grow: 1;
+} 
+
+.header__nav{
+    
+} 
+
+.header__list{  
+    display: flex;
+    align-items: center;
+    gap: 35px;
+} 
+
+.header__item{
+
+} 
+
+.header__link{
+
+} 
+
+.header__button{
+
+} 
